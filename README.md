@@ -1,11 +1,13 @@
 ## Hi there 👋
 
+Привет, я Анастасия Чистоева!
+Можно просто Энн 😄
 
-**AnneBirdie/AnneBirdie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+В настоящее время я в поисках работы в области web-разработки. Мне интересны как фронт, так и бэк - стороны сайта, поэтому я рассматриваю вакансии : frontend, backend и fullstack - разработчик
 
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,6 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnneBirdie&hide_progress=false)

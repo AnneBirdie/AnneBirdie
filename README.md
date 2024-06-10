@@ -17,11 +17,11 @@
 
 <div align="center">  
 
-<img style="margin: 10px" src="https://github.com/AnneBirdie/AnneBirdie/blob/main/Group%207.png" alt="html" height="500" />
-<img style="margin: 10px" src="https://github.com/AnneBirdie/AnneBirdie/blob/main/Group%206.png" alt="css" height="500" />
-<img style="margin: 10px" src="https://github.com/AnneBirdie/AnneBirdie/blob/main/Group%209.png" alt="js" height="500" />
-<img style="margin: 10px" src="https://github.com/AnneBirdie/AnneBirdie/blob/main/Group%208.png" alt="php" height="500" />
-<img style="margin: 10px" src="https://github.com/AnneBirdie/AnneBirdie/blob/main/Group%205.png" alt="sql" height="500" />
+<img style="margin: 10px" src="https://github.com/AnneBirdie/AnneBirdie/blob/main/Group%207.png" alt="html" height="200" />
+<img style="margin: 10px" src="https://github.com/AnneBirdie/AnneBirdie/blob/main/Group%206.png" alt="css" height="200" />
+<img style="margin: 10px" src="https://github.com/AnneBirdie/AnneBirdie/blob/main/Group%209.png" alt="js" height="200" />
+<img style="margin: 10px" src="https://github.com/AnneBirdie/AnneBirdie/blob/main/Group%208.png" alt="php" height="200" />
+<img style="margin: 10px" src="https://github.com/AnneBirdie/AnneBirdie/blob/main/Group%205.png" alt="sql" height="200" />
 </div>
 
 

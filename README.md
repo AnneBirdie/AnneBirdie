@@ -31,7 +31,7 @@
 <br/>  
 
 ## certificates
-<a href="https://stepik.org/users/664790619/profile">Сертификаты</a>
+Здесь можно уыидеть мои пройденные <a href="https://stepik.org/users/664790619/profile">курсы</a>
 
 
  

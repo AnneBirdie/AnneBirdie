@@ -15,7 +15,7 @@
 ## skills
 <table><tr><td valign="top" width="100%">
 
-<div align="center">  
+<div align="center" width="100%">  
 
 <img style="margin: 10px" src="https://github.com/AnneBirdie/AnneBirdie/blob/main/Group%207.png" alt="html" height="180" />
 <img style="margin: 10px" src="https://github.com/AnneBirdie/AnneBirdie/blob/main/Group%206.png" alt="css" height="180" />

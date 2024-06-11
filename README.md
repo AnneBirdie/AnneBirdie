@@ -3,10 +3,13 @@
 </div>  
   
 
-### <div align="center">Привет, я Анастасия Чистоева!<br> Можно просто Энн 🙃 </div>  
+### <div align="center">Hi, I'm Anne! 🙃 </div>  
   
 
-- 🔭 В настоящее время я в поисках работы в области веб-разработки.   
+- 🔭 I'm currently a freelancer and my work is presented in the profile.
+- I'm looking for a job in web development
+- Visit my website to learn more about my work
+- Here are my <a href="https://stepik.org/users/664790619/profile">certificates</a>
   
 
 <br/>  
@@ -27,18 +30,6 @@
 
 
 </td></tr></table>  
-
-<br/>  
-
-## certificates
-Здесь можно увидеть мои пройденные <a href="https://stepik.org/users/664790619/profile">курсы</a>
-
-
- 
-  
- 
-
-  
 
 <br/>  
 

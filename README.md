@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently a freelancer and my work is presented in the profile.
 - 😎 I'm looking for a job in web development
-- 👉 Visit my website to learn more about my work
+- 👉 Visit my <a href="https://stepik.org/users/664790619/profile"website</a> to learn more about my work
 - 👻 Here are my <a href="https://stepik.org/users/664790619/profile">certificates</a>
   
 
